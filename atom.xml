@@ -9,8 +9,8 @@
     <icon>https://ddd-tw.com/blog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[The DDDesign Taiwan Blog]]></title>
-        <id>first-blog-post</id>
-        <link href="https://ddd-tw.com/blog/first-blog-post"/>
+        <id>The DDDesign Taiwan Blog</id>
+        <link href="https://ddd-tw.com/blog/2021/10/03/hello-world"/>
         <updated>2021-10-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[這是 DDDesign Taiwan 官方部落格！]]></summary>
         <author>

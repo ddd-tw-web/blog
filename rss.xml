@@ -9,8 +9,8 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[The DDDesign Taiwan Blog]]></title>
-            <link>https://ddd-tw.com/blog/first-blog-post</link>
-            <guid>first-blog-post</guid>
+            <link>https://ddd-tw.com/blog/2021/10/03/hello-world</link>
+            <guid>The DDDesign Taiwan Blog</guid>
             <pubDate>Sun, 03 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[這是 DDDesign Taiwan 官方部落格！]]></description>
         </item>
