@@ -1,5 +1,4 @@
 ---
-slug: first-blog-post
 title: The DDDesign Taiwan Blog
 authors: vdustr
 tags: [社群官網]
