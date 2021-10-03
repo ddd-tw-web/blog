@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkddd_tw_web_github_io=self.webpackChunkddd_tw_web_github_io||[]).push([[115],{9504:function(t){t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/\u793e\u7fa4\u5b98\u7db2","name":"\u793e\u7fa4\u5b98\u7db2","count":1,"permalink":"/blog/tags/\u793e\u7fa4\u5b98\u7db2"}')}}]);

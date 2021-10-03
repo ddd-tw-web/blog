@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkddd_tw_web_github_io=self.webpackChunkddd_tw_web_github_io||[]).push([[212],{216:function(e){e.exports=JSON.parse('{"permalink":"/ddd-tw-web/blog/","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
