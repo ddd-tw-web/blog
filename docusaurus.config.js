@@ -38,6 +38,8 @@ const baseUrl = process.env.GITHUB_REPOSITORY ? "/blog/" : "/";
     themeConfig:
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
+        image:
+          "https://cdn.jsdelivr.net/gh/ddd-tw-web/asset-2021@c88096b/04/ogImage.png",
         colorMode: {
           defaultMode: "dark",
           disableSwitch: true,
