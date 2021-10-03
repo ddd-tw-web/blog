@@ -1,4 +1,6 @@
-const baseUrl =  process.env.GITHUB_REPOSITORY ? `/${process.env.GITHUB_REPOSITORY}/` || "/";
+const baseUrl = process.env.GITHUB_REPOSITORY
+  ? `/${process.env.GITHUB_REPOSITORY}/`
+  : "/";
 
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
