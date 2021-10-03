@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ddd-tw.com/</id>
+    <id>https://ddd-tw.com/ddd-tw-web/blog/</id>
     <title>DDDesign Taiwan Blog Blog</title>
     <updated>2021-10-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ddd-tw.com/"/>
+    <link rel="alternate" href="https://ddd-tw.com/ddd-tw-web/blog/"/>
     <subtitle>DDDesign Taiwan Blog Blog</subtitle>
-    <icon>https://ddd-tw.com/img/favicon.ico</icon>
+    <icon>https://ddd-tw.com/ddd-tw-web/blog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[The DDDesign Taiwan Blog]]></title>
         <id>first-blog-post</id>
-        <link href="https://ddd-tw.com/first-blog-post"/>
+        <link href="https://ddd-tw.com/ddd-tw-web/blog/first-blog-post"/>
         <updated>2021-10-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[這是 DDDesign Taiwan 官方部落格！]]></summary>
         <author>
